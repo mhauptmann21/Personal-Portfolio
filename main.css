@@ -243,7 +243,7 @@ section h2::after {
 
 .project-box {
     flex: 0 0 16rem; /* Fixed width for the boxes */
-    height: 375px;;
+    height: 375px;
     text-align: center;
     border: 1px solid #d7dbd8;
     border-radius: 0.5rem;
@@ -457,7 +457,7 @@ footer .copyright {
 
 @media (min-width: 1690px) {
     .swiper-wrapper {
-        justify-content:center;
+        justify-content:left;
     }
 }
 
